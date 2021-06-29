@@ -1,0 +1,2 @@
+http://statmt.org/wmt18/multimodal-task.html中，找到“Textual and Visual Data”部分，
+可以看到相关图文数据的链接
